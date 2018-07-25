@@ -1,0 +1,66 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  font-size: 120%;
+  background: blue;
+}
+
+.header {
+  width: 30%;
+  margin: 50px auto 0px;
+  color: black;
+  text-align: center;
+  padding: 20px;
+}
+form, .content {
+  width: 30%;
+  margin: 0px auto;
+  padding: 20px;
+
+}
+.input-group {
+  margin: 10px 0px 10px 0px;
+}
+.input-group label {
+  display: block;
+  text-align: left;
+  margin: 3px;
+}
+.input-group input {
+  height: 30px;
+  width: 93%;
+  padding: 5px 10px;
+  font-size: 16px;
+}
+
+.error {
+  width: 92%; 
+  margin: 0px auto; 
+  padding: 10px;
+  color: #a94442;  
+  text-align: left;
+}
+.success {
+  color: #3c763d; 
+  
+}
+.chat {
+    position: fixed;
+    top: 200px;
+    right: 850px;
+
+}
+
+.chat2 {
+    position: fixed;
+    top: 200px;
+    right: 700px;
+}
+.chat3 {
+    position: fixed;
+    top: 200px;
+    right: 400px;
+
+}

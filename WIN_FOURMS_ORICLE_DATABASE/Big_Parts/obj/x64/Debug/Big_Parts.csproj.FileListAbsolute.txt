@@ -1,0 +1,36 @@
+C:\Users\Liam Mason-Webb\Documents\Visual Studio 2015\Projects\Big_Parts\Big_Parts\bin\x64\Debug\Big_Parts.exe.config
+C:\Users\Liam Mason-Webb\Documents\Visual Studio 2015\Projects\Big_Parts\Big_Parts\bin\x64\Debug\Big_Parts.exe
+C:\Users\Liam Mason-Webb\Documents\Visual Studio 2015\Projects\Big_Parts\Big_Parts\bin\x64\Debug\Big_Parts.pdb
+C:\Users\Liam Mason-Webb\Documents\Visual Studio 2015\Projects\Big_Parts\Big_Parts\obj\x64\Debug\Big_Parts.Form1.resources
+C:\Users\Liam Mason-Webb\Documents\Visual Studio 2015\Projects\Big_Parts\Big_Parts\obj\x64\Debug\Big_Parts.BUYERTRANS.resources
+C:\Users\Liam Mason-Webb\Documents\Visual Studio 2015\Projects\Big_Parts\Big_Parts\obj\x64\Debug\Big_Parts.Form2.resources
+C:\Users\Liam Mason-Webb\Documents\Visual Studio 2015\Projects\Big_Parts\Big_Parts\obj\x64\Debug\Big_Parts.Properties.Resources.resources
+C:\Users\Liam Mason-Webb\Documents\Visual Studio 2015\Projects\Big_Parts\Big_Parts\obj\x64\Debug\Big_Parts.SELLERTRANS.resources
+C:\Users\Liam Mason-Webb\Documents\Visual Studio 2015\Projects\Big_Parts\Big_Parts\obj\x64\Debug\Big_Parts.sell_parts.resources
+C:\Users\Liam Mason-Webb\Documents\Visual Studio 2015\Projects\Big_Parts\Big_Parts\obj\x64\Debug\Big_Parts.csproj.GenerateResource.Cache
+C:\Users\Liam Mason-Webb\Documents\Visual Studio 2015\Projects\Big_Parts\Big_Parts\obj\x64\Debug\Big_Parts.exe
+C:\Users\Liam Mason-Webb\Documents\Visual Studio 2015\Projects\Big_Parts\Big_Parts\obj\x64\Debug\Big_Parts.pdb
+C:\Users\Liam Mason-Webb\Documents\Visual Studio 2015\Projects\Big_Parts\Big_Parts\obj\x64\Debug\Big_Parts.csprojResolveAssemblyReference.cache
+C:\Users\Liam Mason-Webb\Documents\Visual Studio 2015\Projects\Big_Parts\Big_Parts\bin\x64\Debug\Oracle.DataAccess.dll
+C:\Users\Liam Mason-Webb\Documents\Visual Studio 2015\Projects\Big_Parts\Big_Parts\bin\x64\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Liam Mason-Webb\Documents\Visual Studio 2015\Projects\Big_Parts\Big_Parts\obj\x64\Debug\Big_Parts.user_add.resources
+C:\Users\Liam Mason-Webb\Documents\Visual Studio 2015\Projects\Big_Parts\Big_Parts\obj\x64\Debug\Big_Parts.SELLERADD.resources
+C:\Users\Liam Mason-Webb\Documents\Visual Studio 2015\Projects\Big_Parts\Big_Parts\obj\x64\Debug\Big_Parts.WELCOME.resources
+C:\Users\Liam Mason-Webb\Desktop\Big_Parts\Big_Parts\bin\x64\Debug\Big_Parts.exe.config
+C:\Users\Liam Mason-Webb\Desktop\Big_Parts\Big_Parts\obj\x64\Debug\Big_Parts.exe
+C:\Users\Liam Mason-Webb\Desktop\Big_Parts\Big_Parts\obj\x64\Debug\Big_Parts.pdb
+C:\Users\Liam Mason-Webb\Desktop\Big_Parts\Big_Parts\bin\x64\Debug\Big_Parts.exe
+C:\Users\Liam Mason-Webb\Desktop\Big_Parts\Big_Parts\bin\x64\Debug\Big_Parts.pdb
+C:\Users\Liam Mason-Webb\Desktop\Big_Parts\Big_Parts\bin\x64\Debug\Oracle.DataAccess.dll
+C:\Users\Liam Mason-Webb\Desktop\Big_Parts\Big_Parts\bin\x64\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Liam Mason-Webb\Desktop\Big_Parts\Big_Parts\obj\x64\Debug\Big_Parts.csprojResolveAssemblyReference.cache
+C:\Users\Liam Mason-Webb\Desktop\Big_Parts\Big_Parts\obj\x64\Debug\Big_Parts.Form1.resources
+C:\Users\Liam Mason-Webb\Desktop\Big_Parts\Big_Parts\obj\x64\Debug\Big_Parts.BUYERTRANS.resources
+C:\Users\Liam Mason-Webb\Desktop\Big_Parts\Big_Parts\obj\x64\Debug\Big_Parts.Form2.resources
+C:\Users\Liam Mason-Webb\Desktop\Big_Parts\Big_Parts\obj\x64\Debug\Big_Parts.Properties.Resources.resources
+C:\Users\Liam Mason-Webb\Desktop\Big_Parts\Big_Parts\obj\x64\Debug\Big_Parts.SELLERADD.resources
+C:\Users\Liam Mason-Webb\Desktop\Big_Parts\Big_Parts\obj\x64\Debug\Big_Parts.SELLERTRANS.resources
+C:\Users\Liam Mason-Webb\Desktop\Big_Parts\Big_Parts\obj\x64\Debug\Big_Parts.sell_parts.resources
+C:\Users\Liam Mason-Webb\Desktop\Big_Parts\Big_Parts\obj\x64\Debug\Big_Parts.user_add.resources
+C:\Users\Liam Mason-Webb\Desktop\Big_Parts\Big_Parts\obj\x64\Debug\Big_Parts.WELCOME.resources
+C:\Users\Liam Mason-Webb\Desktop\Big_Parts\Big_Parts\obj\x64\Debug\Big_Parts.csproj.GenerateResource.Cache

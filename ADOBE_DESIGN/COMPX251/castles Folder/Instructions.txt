@@ -1,0 +1,85 @@
+ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
+
+PUBLICATION NAME: castles.indd
+
+PACKAGE DATE: 20/03/2018 9:27 PM
+Creation Date: 20/03/2018
+Modification Date: 20/03/2018
+
+CONTACT INFORMATION
+
+Company Name: 
+Contact: 
+Address: 
+
+
+
+
+
+Phone: 
+Fax: 
+Email: 
+
+SPECIAL INSTRUCTIONS AND OTHER NOTES
+
+
+
+
+
+
+External Plug-ins 0
+Non Opaque Objects :None
+
+FONTS
+1 Fonts Used; 0 Missing, 0 Embedded, 0 Incomplete, 0 Protected
+
+Fonts Packaged
+- Name: MinionPro-Regular; Type: OpenType Type 1, Status: OK
+
+
+COLORS AND INKS
+4 Process Inks; 0 Spot Inks
+
+- Name and Type: Process Cyan; Angle: 0.000; Lines/Inch: 0.000
+- Name and Type: Process Magenta; Angle: 0.000; Lines/Inch: 0.000
+- Name and Type: Process Yellow; Angle: 0.000; Lines/Inch: 0.000
+- Name and Type: Process Black; Angle: 0.000; Lines/Inch: 0.000
+
+
+LINKS AND IMAGES
+(Missing & Embedded Links Only)
+Links and Images: 6 Links Found; 0 Modified, 0 Missing, 0 Inaccessible
+Images: 0 Embedded, 6 use RGB color space
+
+
+PRINT SETTINGS
+PPD: N/A, (HP Deskjet 3520 series)
+Printing To: Printer
+Number of Copies: 1
+Reader Spreads: No
+Even/Odd Pages: Both
+Pages: All
+Proof: No
+Tiling: None
+Scale: 100%, 100%
+Page Position: Upper Left
+Print Layers: Visible & Printable Layers
+Printer's Marks: None
+Bleed: 0p0, 0p0, 0p0, 0p0
+Color: Composite RGB
+Trapping Mode: None
+Send Image Data: Optimized Subsampling
+OPI/DCS Image Replacement: No
+Page Size: A4
+Paper Dimensions: 49p7.276 x 70p1.89
+Orientation: Portrait
+Negative: No
+Flip Mode: Off
+
+
+FILE PACKAGE LIST
+
+1. castles.indd; type: Adobe InDesign publication; size: 1392K
+2. castles.idml; type: InDesign Markup Document; size: 54K
+3. castles.pdf; type: Adobe Acrobat Document; size: 558K
+4. MinionPro-Regular.otf; type: Font file; size: 213K
